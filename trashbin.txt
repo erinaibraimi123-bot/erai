@@ -1,0 +1,20 @@
+        <div class="title">EriAI</div>
+        <div class="subtitle">Your personal AI</div>
+        <div class="status">Online</div>
+ 
+        <div class="footer">
+            EriAI runs locally with Ollama
+        </div>
+ 
+```html
+ 
+```
+ 
+```html
+ 
+```
+ 
+```html
+ 
+```
+ 
